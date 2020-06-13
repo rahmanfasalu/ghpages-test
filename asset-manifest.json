@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ghpages-test/public/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ghpages-test/public/static/js/main.7ecfcc79.chunk.js",
-    "main.js.map": "/ghpages-test/public/static/js/main.7ecfcc79.chunk.js.map",
-    "runtime-main.js": "/ghpages-test/public/static/js/runtime-main.cb143c44.js",
-    "runtime-main.js.map": "/ghpages-test/public/static/js/runtime-main.cb143c44.js.map",
-    "static/js/2.79da6aab.chunk.js": "/ghpages-test/public/static/js/2.79da6aab.chunk.js",
-    "static/js/2.79da6aab.chunk.js.map": "/ghpages-test/public/static/js/2.79da6aab.chunk.js.map",
-    "index.html": "/ghpages-test/public/index.html",
-    "precache-manifest.696bcce21b6388d8d1a2bd2773b38623.js": "/ghpages-test/public/precache-manifest.696bcce21b6388d8d1a2bd2773b38623.js",
-    "service-worker.js": "/ghpages-test/public/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ghpages-test/public/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.79da6aab.chunk.js.LICENSE.txt": "/ghpages-test/public/static/js/2.79da6aab.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ghpages-test/public/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ghpages-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ghpages-test/static/js/main.d4988102.chunk.js",
+    "main.js.map": "/ghpages-test/static/js/main.d4988102.chunk.js.map",
+    "runtime-main.js": "/ghpages-test/static/js/runtime-main.bbec4d79.js",
+    "runtime-main.js.map": "/ghpages-test/static/js/runtime-main.bbec4d79.js.map",
+    "static/js/2.79da6aab.chunk.js": "/ghpages-test/static/js/2.79da6aab.chunk.js",
+    "static/js/2.79da6aab.chunk.js.map": "/ghpages-test/static/js/2.79da6aab.chunk.js.map",
+    "index.html": "/ghpages-test/index.html",
+    "precache-manifest.b4132d07df89c94ceae88cfb2e759760.js": "/ghpages-test/precache-manifest.b4132d07df89c94ceae88cfb2e759760.js",
+    "service-worker.js": "/ghpages-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ghpages-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.79da6aab.chunk.js.LICENSE.txt": "/ghpages-test/static/js/2.79da6aab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ghpages-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb143c44.js",
+    "static/js/runtime-main.bbec4d79.js",
     "static/js/2.79da6aab.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7ecfcc79.chunk.js"
+    "static/js/main.d4988102.chunk.js"
   ]
 }
